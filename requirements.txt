@@ -1,0 +1,12 @@
+req = '''
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+'''
+
+with open("/content/requirements.txt", "w") as f:
+    f.write(req)
+
+print("✅ File requirements.txt berhasil dibuat.")
