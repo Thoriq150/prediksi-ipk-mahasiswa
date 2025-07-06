@@ -12,7 +12,7 @@ Model ini menggunakan pendekatan **regresi linier** dan dibangun dalam konteks p
 ## 🚀 Demo Aplikasi
 
 🌐 Akses langsung aplikasi Streamlit di:
-👉 [Klik di sini untuk mencoba aplikasinya](https://NAMA-APP-KAMU.streamlit.app)
+👉 [Klik di sini untuk mencoba aplikasinya](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
 
 > Gantilah URL di atas dengan link Streamlit kamu sendiri setelah deploy.
 
